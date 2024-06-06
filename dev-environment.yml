@@ -1,0 +1,11 @@
+name: calcs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - black
+  - build
+  - earthengine-api
+  - geemap
+prefix: C:\Users\rhamilton\AppData\Local\miniconda3\envs\calcs
